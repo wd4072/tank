@@ -1,0 +1,11 @@
+com\wangdong\pojo\User.class
+com\wangdong\servlet\UserAddServlet.class
+com\wangdong\servlet\ValidataServlet.class
+com\wangdong\service\UserService.class
+com\wangdong\servlet\TestServlet.class
+UserTest2.class
+com\wangdong\mapper\UserMapper.class
+com\wangdong\service\impl\UserServiceImpl.class
+com\wangdong\dao\SessionFactory.class
+com\wangdong\servlet\DefaultServlet.class
+com\wangdong\servlet\UsersServlet.class
